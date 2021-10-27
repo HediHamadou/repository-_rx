@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hallo Welt!
 
 Hier geht es um Versionsverwaltung von Dateien (und Ordnern).
@@ -8,3 +9,15 @@ MFG
 Versions-Chaos (resolved)
 
 
+=======
+
+Hallo Welt!
+
+Hier geht es um Versionsverwaltung von Dateien (und Ordnern).
+Das kann man händisch machen mit z.B. Versionsnummern am Ende des Dateinamens.
+Oder mit einem Versionsverwaltungssystem wie z.B. Git.
+
+MFG
+
+
+>>>>>>> new_branch
