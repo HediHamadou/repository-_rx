@@ -1,3 +1,2 @@
-Hallo Welt!!
-
- Ausnahmen bestätigen die Regel !
+Hallo Welt!
+Ausnahmen bestätigen die Regel 
